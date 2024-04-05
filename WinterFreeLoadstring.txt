@@ -1,0 +1,2 @@
+-- Winter Free Latest
+loadstring(game:HttpGet('https://pastebin.com/raw/se4SKN5Z'))()
