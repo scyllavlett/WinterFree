@@ -1,6 +1,6 @@
 # Winter Free
 - Free Version: 1.2
-- 1.3 Percentage Finished 100% :slight_smile:
+- 1.3 Percentage Finished 100% 😀
 - (Fixing & Testing before release)
 
 # Current Features
