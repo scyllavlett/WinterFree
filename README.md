@@ -1,7 +1,7 @@
 # Winter Free
-Free Version: 1.2
-1.3 Percentage Finished 100% :slight_smile:
-(Fixing & Testing before release)
+- Free Version: 1.2
+- 1.3 Percentage Finished 100% :slight_smile:
+- (Fixing & Testing before release)
 
 # Current Features
 - Player Related
